@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/apple/Doors/node_modules/react-native-doctorstrange-updater/ios/DoctorStrange/DoctorStrangeUpdater.m \
+  ../../react-native/React/Base/RCTBridge.h \
+  ../../react-native/React/Base/RCTBridgeDelegate.h \
+  ../../react-native/React/Base/RCTJavaScriptLoader.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  ../../react-native/React/Base/RCTFrameUpdate.h \
+  ../../react-native/React/Base/RCTInvalidating.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/CSSLayout/CSSLayout.h \
+  ../../react-native/React/CSSLayout/CSSMacros.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Views/RCTPointerEvents.h \
+  /Users/apple/Doors/node_modules/react-native-doctorstrange-updater/ios/bspatch.h \
+  /Users/apple/Doors/node_modules/react-native-doctorstrange-updater/ios/DoctorStrange/DoctorStrangeUpdater.h \
+  ../../react-native/React/Modules/RCTEventEmitter.h \
+  /Users/apple/Doors/node_modules/react-native-doctorstrange-updater/ios/DoctorStrange/StatusBarNotification.h

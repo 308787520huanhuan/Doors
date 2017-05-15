@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/RCTQiYu.m \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/RCTQiYu.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYSDK.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYHeaders.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYSource.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYUserInfo.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYSessionViewController.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYConversationManagerProtocol.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYCustomUIConfig.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYCustomActionConfig.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYCommodityInfo.h \
+  /Users/apple/Doors/node_modules/react-native-qiyu/ios/RCTQiYu/QIYU_iOS_SDK/ExportHeaders/QYPushMessage.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/CSSLayout/CSSLayout.h \
+  ../../react-native/React/CSSLayout/CSSMacros.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Views/RCTPointerEvents.h \
+  ../../react-native/React/Base/RCTBridge.h \
+  ../../react-native/React/Base/RCTBridgeDelegate.h \
+  ../../react-native/React/Base/RCTJavaScriptLoader.h \
+  ../../react-native/React/Base/RCTFrameUpdate.h \
+  ../../react-native/React/Base/RCTInvalidating.h \
+  ../../react-native/React/Base/RCTEventDispatcher.h

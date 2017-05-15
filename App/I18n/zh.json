@@ -1,0 +1,9 @@
+{
+   "phoneNumber": "手机号",
+   "password":"密码",
+   "signIn":"登录",
+   "inputPassWord":"请输入密码!",
+   "inputCorrectPhone":"请输入正确的手机号!",
+   "bind":"绑定",
+   "neterror":"网络异常"
+}

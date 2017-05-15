@@ -1,0 +1,52 @@
+import { StyleSheet } from 'react-native'
+import { Colors, Metrics } from '../../Themes'
+
+export default StyleSheet.create({
+  container:{
+    paddingTop:65,
+    backgroundColor:"#eee"
+  },
+  row:{
+    paddingHorizontal:10,
+    backgroundColor:"#fff",
+    flexDirection:'row'
+  },
+  topRow:{
+    justifyContent:'space-between',
+    marginBottom:5
+  },
+  money:{
+    color:"red"
+  },
+  btnText:{
+    lineHeight:40
+  },
+  boldText:{
+    fontWeight:'bold'
+  },
+  input:{
+    flex:1,
+    paddingLeft:10,
+    height:40,
+    paddingLeft:10,
+    fontSize:14
+  },
+  payBtnContent:{
+    paddingHorizontal:10,
+    paddingVertical:20
+  },
+  payBtn:{
+    backgroundColor:Colors.error
+  },
+  payText:{
+    lineHeight:40,
+    color:Colors.snow,
+    alignSelf:'center'
+  },
+  warmingText:{
+    paddingLeft:10,
+    lineHeight:30,
+    fontSize:13,
+    color:"#555"
+  }
+})

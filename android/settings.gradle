@@ -1,0 +1,23 @@
+rootProject.name = 'Doors'
+
+include ':app'
+include ':react-native-doctorstrange-updater'
+project(':react-native-doctorstrange-updater').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-doctorstrange-updater/android')
+include ':react-native-spinkit'
+project(':react-native-spinkit').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-spinkit/android')
+include ':react-native-smart-pull-to-refresh-listview'
+project(':react-native-smart-pull-to-refresh-listview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-smart-pull-to-refresh-listview/android')
+include ':react-native-mob-sms'
+project(':react-native-mob-sms').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-mob-sms/android')
+include ':react-native-wechat'
+project(':react-native-wechat').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wechat/android')
+include ':react-native-qiyu'
+project(':react-native-qiyu').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-qiyu/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-i18n'
+project(':react-native-i18n').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-i18n/android')
+include ':react-native-device-info'
+project(':react-native-device-info').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-device-info/android')
+include ':react-native-config'
+project(':react-native-config').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-config/android')
